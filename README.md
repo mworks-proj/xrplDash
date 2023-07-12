@@ -10,12 +10,10 @@ HTML Browser based XRPL Dashboard used to access xrpl account to make transactio
 
 ## Deployment
 
-To deploy this project clone repo and install Live Server
-v5.7.9
-
-```bash
-  click Go Live
-```
+To deploy this project 
+1. clone repo https://github.com/mworks-proj/xrplDash.git 
+2. In VS Code Install Live Server v5.7.9
+3. click Go Live
 
 
 ## Authors
