@@ -7,11 +7,6 @@ HTML Browser based XRPL Dashboard used to access xrpl account to make transactio
 
 ## Deployment
 
-To deploy this project 
-1. clone repo https://github.com/mworks-proj/xrplDash.git 
-2. In VS Code Install Live Server v5.7.9
-3. click Go Live
-
 
 ## Contributing
 
@@ -31,7 +26,7 @@ Please adhere to this project's `code of conduct`.
 
 This project is used by the following companies:
 
-- True Tithe
+
 - coming soon..
 
 ## Authors
