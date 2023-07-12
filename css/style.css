@@ -938,6 +938,15 @@ body.panel-closing .page, body.panel-closing .bottom-toolbar {
     font-size: 1.8rem;
     font-weight: 300; }
 
+  .dash_logo img{
+    /*border: 2px solid red;*/
+    width: auto;
+    height: 200px;
+    margin-bottom: 10px;
+    padding: 5px;
+    margin: 5px;
+  }
+
 @keyframes cartnr {
   0% {
     transform: scale(1.5); }
